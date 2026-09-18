@@ -20,7 +20,7 @@ $projects = [
         "number" => "03",
         "title" => "DISDIK",
         "category" => "INFORMATION SYSTEM",
-        "description" => "Landing Page for Disdik Semarang Kabupaten",
+        "description" => "Landing Page for Disdik Semarang Kabupaten.",
         "stack" => ["PHP", "Web"],
         "github" => "https://disdiksemarangkab.com/"
     ],
