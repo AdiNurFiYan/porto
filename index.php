@@ -152,7 +152,7 @@ software implementation and client support.
         
         <div class="stats-grid reveal">
             <div class="stat-item">
-                <h3>3.86</h3>
+                <h3>3.62</h3>
                 <p>GPA / 4.00</p>
             </div>
             <div class="stat-item">
