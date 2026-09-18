@@ -282,7 +282,7 @@ software implementation and client support.
         </div>
     </section>
 
-    <<section class="section new-contact" id="contact">
+    <section class="section new-contact" id="contact">
         <div class="section-label reveal">05 — CONTACT</div>
         
         <div class="contact-content reveal">
