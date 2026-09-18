@@ -105,7 +105,7 @@ include __DIR__ . "/includes/header.php";
         <div class="hero-orb orb-two"></div>
 
         <div class="hero-content reveal">
-            <p class="eyebrow"><span></span> COMPUTER ENGINEERING · PHP DEVELOPER</p>
+            <p class="eyebrow"><span></span> COMPUTER ENGINEERING</p>
             <h1>ADI<br><em>NUR FI YAN</em></h1>
             <p class="hero-copy">
             Computer Engineering graduate focused on web development,
